@@ -1,7 +1,6 @@
 package de.androbin.function;
 
 @ FunctionalInterface
-public interface IntToBooleanFunction
-{
-	boolean applyAsBoolean( final int i );
+public interface IntToBooleanFunction {
+  boolean applyAsBoolean( int i );
 }

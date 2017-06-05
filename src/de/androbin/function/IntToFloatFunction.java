@@ -1,7 +1,6 @@
 package de.androbin.function;
 
 @ FunctionalInterface
-public interface IntToFloatFunction
-{
-	float applyAsFloat( final int i );
+public interface IntToFloatFunction {
+  float applyAsFloat( int i );
 }
