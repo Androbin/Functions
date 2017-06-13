@@ -1,4 +1,4 @@
-package de.androbin.function;
+package de.androbin.func;
 
 @ FunctionalInterface
 public interface IntToBooleanFunction {
